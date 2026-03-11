@@ -131,5 +131,5 @@ Ensure that auditability and demo-readiness are preserved in all contributions.
 
 ## 📧 Contact
 
-Created by **MegarusherSamarth**  
+Created by **Vaibhavi Ghildiyal**  
 For collaboration or research inquiries, please reach out via GitHub.
